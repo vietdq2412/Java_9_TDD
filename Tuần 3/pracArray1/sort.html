@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+    <!-- <h1></h1> -->
+    <input type="text" id="input" value="">
+    <br><br><button id="btn" onclick="addElement()">ADD</button>
+    <br>
+    <p id="p"></p>
+    <br>
+    <button onclick="sort()">Sort</button>
+    <button onclick="pop()">Xóa</button>
+    <hr>
+    <!--//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <p id="result"></p>
+    <script>
+        let arr = Array();
+
+        let getInput = document.getElementById('input'),
+            getp = document.getElementById('p');
+
+
+        ///press enter = click button
+        getInput.addEventListener('keyup', function(event) {
+            if (event.keyCode === 13) {
+                event.preventDefault();
+                document.getElementById('btn').click();
+            }
+        });
+        //add an element to arr[]
+        function addElement() {
+            let x = 0;
+            let add = getInput.value;
+            if (add != "") {
+                arr[x] = add;
+                x++;
+                alert("thêm " + add);
+                document.getElementById("input").focus();
+            } else {
+                alert('input sth!')
+                document.getElementById("input").focus();
+            }
+
+            show();
+        }
+        let e = "";
+
+        function show() {
+            e = '[ ';
+            e += arr.join(' ');
+            getp.innerHTML = e + " ]";
+        }
+
+        function pop() {
+            arr.pop();
+            show();
+            // alert(arr.length);
+        }
+        /////////////////////////////////////function/////////////////////////////////////////////////////////////////////////////////////////
+        function sort() {
+            let inter = 0;
+            for (let i = 0; i < arr.length - 1; i++) {
+                for (let j = i + 1; j < arr.length; j++) {
+                    if (arr[i] < arr[j]) {
+                        inter = arr[i];
+                        arr[i] = arr[j];
+                        arr[j] = inter;
+                    }
+                }
+            }
+            console.log(arr);
+            show();
+        }
+    </script>
+</body>
+
+</html>

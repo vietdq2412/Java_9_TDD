@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+    <!-- <h1></h1> -->
+    <input type="text" id="input" value="">
+    <br><br><button id="btn" onclick="addElement()">ADD</button>
+    <br>
+    <p id="p"></p>
+    <br>
+    <button onclick="isOver10()">Check</button>
+    <hr>
+    <!--//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <p id="result"></p>
+    <script>
+        let arr = Array();
+        let x = 0;
+        let getInput = document.getElementById('input'),
+            getp = document.getElementById('p');
+
+
+        ///press enter = click button
+        getInput.addEventListener('keyup', function(event) {
+            if (event.keyCode === 13) {
+                event.preventDefault();
+                document.getElementById('btn').click();
+            }
+        });
+        //add an element to arr[]
+        function addElement() {
+            let e = "[ ";
+            let add = getInput.value;
+            if (add != "") {
+                arr[x] = add;
+                x++;
+                alert("thêm " + add);
+                document.getElementById("input").focus();
+            } else {
+                alert('input sth!')
+                document.getElementById("input").focus();
+            }
+
+            for (let i = 0; i < arr.length; i++) {
+                e += arr[i] + ", ";
+            }
+            getp.innerHTML = e + " ]";
+        }
+        //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        function isOver10() {
+            let result = '';
+            count = 0;
+            for (let i = 0; i < arr.length; i++) {
+                if (arr[i] >= 10) {
+                    result += (arr[i] + ' ');
+                    count++;
+                }
+            }
+            alert('có ' + count + ' số lớn hơn 10');
+            document.getElementById('result').innerHTML = 'các só lớn hơn 10:   ' + result;
+        }
+    </script>
+</body>
+
+</html>

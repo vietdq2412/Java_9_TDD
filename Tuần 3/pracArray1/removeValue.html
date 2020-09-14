@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+    <!-- <h1></h1> -->
+    <input type="text" id="input" value="">
+    <br><br><button id="btn" onclick="addElement()">ADD</button>
+    <br>
+    <p id="p"></p>
+    <br>
+    <button onclick="findValue()">Remove</button>
+    <hr>
+    <!--//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <p id="result"></p>
+    <script>
+        let arr = Array();
+        let x = 0;
+        let getInput = document.getElementById('input'),
+            getp = document.getElementById('p');
+
+
+        ///press enter = click button
+        getInput.addEventListener('keyup', function(event) {
+            if (event.keyCode === 13) {
+                event.preventDefault();
+                document.getElementById('btn').click();
+            }
+        });
+        //add an element to arr[]
+        function addElement() {
+
+            let add = getInput.value;
+            if (add != "") {
+                arr[x] = add;
+                x++;
+                alert("thêm " + add);
+                document.getElementById("input").focus();
+            } else {
+                alert('input sth!')
+                document.getElementById("input").focus();
+            }
+
+            show();
+        }
+
+        function show() {
+            let e = "[ ";
+            for (let i = 0; i < arr.length - 1; i++) {
+                e += arr[i] + ", ";
+            }
+            getp.innerHTML = e + arr[arr.length - 1] + " ]";
+        }
+        //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        function findValue() {
+            let v = prompt('nhập vào một số: ');
+
+            for (let i = 0; i < arr.length; i++) {
+                if (v == arr[i]) {
+                    arr.splice(i, 1);
+                    show();
+                } else {
+                    document.getElementById('result').innerHTML = 'all ' + v + " is removed";
+                }
+            }
+        }
+    </script>
+</body>
+
+</html>

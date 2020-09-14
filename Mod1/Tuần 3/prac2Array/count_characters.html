@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+    <!-- <h1></h1> -->
+    <input type="text" id="input" value="">
+    <br><br><button id="btn" onclick="addElement()">ADD</button>
+    <br>
+    <p id="p"></p>
+    <br>
+    <button onclick="count()">count</button>
+    <button onclick="pop()">Xóa</button>
+    <hr>
+    <!--//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <p id="result"></p>
+    <script>
+        let arr = Array();
+        let x = arr.length;
+
+        let getInput = document.getElementById('input'),
+            getp = document.getElementById('p');
+
+        ///press enter = click button
+        getInput.addEventListener('keyup', function(event) {
+            if (event.keyCode === 13) {
+                event.preventDefault();
+                document.getElementById('btn').click();
+            }
+        });
+        //add an element to arr[]
+        function addElement() {
+            let add = getInput.value;
+            if (add != "") {
+                arr[x] = add;
+                x++;
+                alert("thêm " + add);
+                document.getElementById("input").focus();
+            } else {
+                alert('input sth!')
+                document.getElementById("input").focus();
+            }
+
+            show();
+        }
+        let e = "";
+
+        function show() {
+            e = '[ ';
+            e += arr.join(' ');
+            getp.innerHTML = e + " ]";
+        }
+
+        function pop() {
+            arr.pop();
+            show();
+            // alert(arr.length);
+        }
+        /////////////////////////////////////function/////////////////////////////////////////////////////////////////////////////////////////
+        function count() {
+            let result = 0;
+            for (let i = 0; i < arr.length; i++) {
+                result += arr[i].length;
+            }
+            document.getElementById('result').innerHTML = 'có ' + result + ' ký tự trong mảng';
+            console.log(result);
+        }
+    </script>
+</body>
+
+</html>

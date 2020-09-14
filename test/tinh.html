@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+<script>
+    let n = parseInt(prompt('nhap n: '));
+    let x = parseInt(prompt('nhap x: '));
+    let i;
+    let result = 0;
+
+    let tu = 0;
+
+    for (let i = 1; i <= n; i++) {
+
+        tu += Math.pow(i, 2);
+        result += parseFloat((tu) / (x + (i + 1)));
+    }
+    console.log('n = ' + n);
+    console.log('x = ' + x);
+
+    console.log('Tử' + tu);
+    console.log('kết quả' + result);
+</script>

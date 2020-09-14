@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Bài 1: </h1>
+    <button onclick="bai1()">runnn</button>
+    <br><br><br><br>
+
+    <br>
+    <h1>Bài 2: </h1>
+    <button onclick="bai2()">runnn</button>
+    <br><br><br><br>
+
+    <br>
+    <h1>Bài 3: </h1>
+    <button onclick="bai3()">runnn</button>
+    <br><br><br><br>
+
+    <br>
+    <h1>Bài 4: </h1>
+    <button onclick="bai4()">runnn</button>
+    <p id="bai4"></p>
+    <br><br><br><br>
+
+    <br>
+    <h1>Bài 5: </h1>
+    <button onclick="bai5()">runnn</button>
+    <br><br><br><br>
+
+    <br>
+    <caption><h1>Bài 6:</h1></caption>
+    <button onclick="bai6()">runnn</button>
+    <br><br><br><br>
+
+    <br>
+    <h1>Bài 7: </h1>
+    <button onclick="bai7()">runnn</button>
+    <br><br><br><br>
+    <br>
+</body>
+
+</html>
+<script>
+    function bai1() {
+        let a = prompt('nhap a: ');
+        let b = prompt('nhap b: ');
+
+        (a % b == 0) ? alert('a chia het cho b'): alert('a khong chia het cho b');
+
+    }
+
+
+    function bai2() {
+        let n = prompt("nhap mot so: ");
+
+        n >= 16 ? alert('đủ dk vào lớp 10') : alert('khong đủ điều kiện');
+    }
+
+    function bai3() {
+        let n = prompt("nhap mot so: ");
+        n > 0 ? alert(n + ' > 0') : n < 0 ? alert(n + '<0') : alert(n + ' = 0');
+    }
+
+    function bai4() {
+        let n1 = prompt("nhap n1: ");
+        let n2 = prompt("nhap n2: ");
+        let n3 = prompt("nhap n3: ");
+
+        //document.getElementById("bai4").innerHTML = n1 + '-' + n2 + '-' + n3;
+
+        let max = n1;
+        if (max < n2) {
+            max = n2;
+            if (max < n3) {
+                max = n3;
+            }
+        } else if (max < n3) {
+            max = n3;
+        }
+        alert('max = ' + max);
+    }
+
+    function bai5() {
+        let mid = prompt("nhap điểm giữa kì: ", 'thang 100');
+        let last = prompt('nhập điểm cuối kì: ', 'thang 100');
+
+        let avg = (mid + last * 2) / 3;
+        let result;
+
+        avg >= 75 ? result = 'tốt' : avg >= 50 ? result = 'khá' : avg >= 30 ? result = 'yếu' : result = 'tạch';
+        alert('xếp loại: ' + result);
+    }
+
+    function bai6() {
+        let sales = prompt('nhập doanh số', '"sản phẩm"')
+    }
+</script>
