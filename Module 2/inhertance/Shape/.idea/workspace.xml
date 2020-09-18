@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:love" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="985c0796-51a3-42b7-bd51-7fe7ca0375f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Book/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Book/src/FictionBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../100423_photo-1-15339932906421153714264.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/JAVASCRIPT/code/nhung/nhung.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/Algorithm/Untitled Diagram.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/Algorithm/baitap3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/Algorithm/cautrucIF.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/Algorithm/giatriln.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/Algorithm/timsonl.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/BAITAP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/Form/Form.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/Form/Thẻ seclect&amp;option.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/GITcodegym/GitProject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/GITcodegym/newrepo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/GITcodegym/wf-hello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/cornell note/038_kanban.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/cornell note/GIT/git.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/cornell note/Mô tả thuật toán bằng Pseudo code &amp; Flowchart/thuattoan.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/cornell note/c.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/.idea/introHTML.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/code/058baitap1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/code/form cơ bản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/code/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/các thẻ list.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/html.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/thẻ img.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/introHTML/thẻ liên kết.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/table/TABLE.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/table/chessboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/table/tkb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/table/tkb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 1/tuần 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/128LUYENTAP1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/128prac2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/138loop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/BMI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/Chuyen-doi-tien-te.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/baiTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/baitap1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/baitap2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/baitap3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/doyouloveme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/goodFastCheap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/keyboardE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/kiemtradangnhap/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/maytinh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/mouseEvent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/operator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/puzzle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/switch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/tenary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/thuchanh2/ex01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/tinhsongay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/Baiftap/variables" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/JAVASCRIPT/code" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/JAVASCRIPT/các sựu kiện.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/JAVASCRIPT/javascript.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/JAVASCRIPT/nhúng javscirp vào html.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/New folder/puzzle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/New folder/puzzle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/New folder/puzzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 2/[CodeGym] BC_C0720I12_Đỗ-Quốc-Việt_20-08-14 (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 3/Array/Array1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 3/Array/Array2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 3/Array/mảng.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 3/Array/prac2Array" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 3/Array/pracArray1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 3/Function/function1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 3/Function/function2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 3/Function/hamf.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 3/[CodeGym] BC_C0720I12_Đỗ-Quốc-Việt_yyMMdd (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 3/prac2Array/count_characters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Tuần 3/pracArray1/count_positive_number.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/caseStudy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/câu hỏi pv.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/tr/testttttttt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/tuần 4/OOP/OOP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/tuần 4/OOP1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/tuần 4/OOP2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/tuần 4/[CodeGym] BC_C0720I12_Đỗ-Quốc-Việt_20200831 (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/tuần 4/codeGymBob/118226896_2662784080700910_3927115479753717767_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/tuần 4/codeGymBob/118372995_657783725162211_7037121606006664049_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/tuần 5/[CodeGym] BC_C0720I12_Đỗ-Quốc-Việt_20200906 (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/tuần 5/caseStudy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/~$ cương Module 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/~$u hỏi pv.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/~WRL0005.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mod1/Đề cương Module 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/out/production/pracAccessModifier/Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/out/production/pracAccessModifier/pack/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/pracAccessModifier.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/src/Simple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/src/mypack/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier/pracAccessModifier/src/pack/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/AddNewElement/src/AddElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/CountChar/src/NumberOfAChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/FindElement/src/ElementFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/FindMax/src/FindMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/FindMaxIn2dimensionalArray/src/LagestElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/FindMin/src/FindMinValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/MainDiagonalLine/src/MainDiagonalLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/MergeArrays/src/MergeArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/MinElement/src/MinElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/MineSweaperMap/src/MineSweeperMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/RemoveAnElement/src/RemoveAnElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/StudentPassing/src/Passed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/SumColum/src/SumOfColumn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/TempratureConvertor/src/Convertor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array&amp;Method/reverse/src/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction to Java/BMI/src/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction to Java/BMI/src/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction to Java/CurrencyConvertor/src/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction to Java/CurrencyConvertor/src/CurrencyConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction to Java/Greeting/src/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction to Java/Greeting/src/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction to Java/LeapYear/src/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction to Java/LeapYear/src/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction to Java/Operetor/src/RengtangleProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction to Java/Operetor/src/RengtangleProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction to Java/ReadNumber/src/ReadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction to Java/ReadNumber/src/ReadNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction to Java/Variable/src/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction to Java/Variable/src/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction to Java/daysInMonth/src/DaysInMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction to Java/daysInMonth/src/DaysInMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction to Java/equation2/src/Equation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction to Java/equation2/src/Equation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Introduction to Java/ptbacnhat/src/Equation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Introduction to Java/ptbacnhat/src/Equation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LoopInJava/CommonDivisor/src/CommonDivisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LoopInJava/Menu/src/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LoopInJava/PrintPrimeNumber/src/PrimeList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LoopInJava/ShapesMenu/src/ShapeMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LoopInJava/primeLessThan100/src/PrimeLessThan100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LoopInJava/test/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPJava/Rectangle/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPJava/Rectangle/src/run.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/AddNewElement/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/AddNewElement/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/AddNewElement/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/AddNewElement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/AddNewElement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/AddNewElement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/AddNewElement/AddNewElement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/AddNewElement/out/production/AddNewElement/AddElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/AddNewElement/src/AddElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/CountChar/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/CountChar/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/CountChar/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/CountChar/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/CountChar/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/CountChar/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/CountChar/CountChar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/CountChar/out/production/CountChar/NumberOfAChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/CountChar/src/NumberOfAChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindElement/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindElement/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindElement/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindElement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindElement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindElement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindElement/FindElement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindElement/out/production/FindElement/ElementFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindElement/src/ElementFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMax/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMax/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMax/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMax/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMax/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMax/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMax/FindMax.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMax/out/production/FindMax/FindMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMax/src/FindMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMaxIn2dimensionalArray/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMaxIn2dimensionalArray/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMaxIn2dimensionalArray/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMaxIn2dimensionalArray/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMaxIn2dimensionalArray/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMaxIn2dimensionalArray/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMaxIn2dimensionalArray/FindMaxIn2dimensionalArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMaxIn2dimensionalArray/out/production/FindMaxIn2dimensionalArray/LagestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMaxIn2dimensionalArray/src/LagestElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMin/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMin/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMin/FindMin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMin/out/production/FindMin/FindMinValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/FindMin/src/FindMinValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MainDiagonalLine/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MainDiagonalLine/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MainDiagonalLine/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MainDiagonalLine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MainDiagonalLine/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MainDiagonalLine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MainDiagonalLine/MainDiagonalLine.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MainDiagonalLine/out/production/MainDiagonalLine/MainDiagonalLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MainDiagonalLine/src/MainDiagonalLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MergeArrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MergeArrays/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MergeArrays/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MergeArrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MergeArrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MergeArrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MergeArrays/MergeArrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MergeArrays/out/production/MergeArrays/MergeArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MergeArrays/src/MergeArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MinElement/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MinElement/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MinElement/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MinElement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MinElement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MinElement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MinElement/MinElement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MinElement/out/production/MinElement/MinElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MinElement/src/MinElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MineSweaperMap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MineSweaperMap/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MineSweaperMap/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MineSweaperMap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MineSweaperMap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MineSweaperMap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MineSweaperMap/MineSweaperMap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MineSweaperMap/out/production/MineSweaperMap/MineSweeperMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/MineSweaperMap/src/MineSweeperMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/RemoveAnElement/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/RemoveAnElement/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/RemoveAnElement/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/RemoveAnElement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/RemoveAnElement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/RemoveAnElement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/RemoveAnElement/RemoveAnElement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/RemoveAnElement/out/production/RemoveAnElement/RemoveAnElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/RemoveAnElement/src/RemoveAnElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/StudentPassing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/StudentPassing/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/StudentPassing/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/StudentPassing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/StudentPassing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/StudentPassing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/StudentPassing/StudentPassing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/StudentPassing/out/production/StudentPassing/Passed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/StudentPassing/src/Passed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/SumColum/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/SumColum/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/SumColum/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/SumColum/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/SumColum/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/SumColum/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/SumColum/SumColum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/SumColum/out/production/SumColum/SumOfColumn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/SumColum/src/SumOfColumn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/TempratureConvertor/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/TempratureConvertor/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/TempratureConvertor/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/TempratureConvertor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/TempratureConvertor/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/TempratureConvertor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/TempratureConvertor/TempratureConvertor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/TempratureConvertor/out/production/TempratureConvertor/Convertor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/TempratureConvertor/src/Convertor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/reverse/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/reverse/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/reverse/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/reverse/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/reverse/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/reverse/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/reverse/out/production/reverse/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/reverse/reverse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tuaanf1/Array&amp;Method/reverse/src/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TestMod1/Animals/Animal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TestMod1/Animals/Animal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TestMod1/Animals/run.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TestMod1/countVowels/countVowel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TestMod1/countVowels/countVowel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TestMod1/equation/equation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TestMod1/equation/ex1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TestMod1/findIndex/findIndex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TestMod1/findIndex/findIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 2/Baiftap/128LUYENTAP1/luyentap1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 2/Baiftap/doyouloveme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 2/Baiftap/goodFastCheap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 2/Baiftap/puzzle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 2/New folder/puzzle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 2/New folder/puzzle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 2/New folder/puzzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 2/[CodeGym] BC_C0720I12_Đỗ-Quốc-Việt_20-08-14 (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Array/Array1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Array/Array2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Array/mảng.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Array/prac2Array" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Array/pracArray1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Array1/arrayElement.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Array1/findMax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Array1/findValue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Array1/mảng.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Array2/dictionaryy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Array2/eistedFunction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Function/function1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/Function/hamf.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/[CodeGym] BC_C0720I12_Đỗ-Quốc-Việt_yyMMdd (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/prac2Array/count_characters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/pracArray1/average.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/pracArray1/concat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/pracArray1/count_positive_number.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/pracArray1/finVAlue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/pracArray1/findMax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/pracArray1/over10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/pracArray1/removeValue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/pracArray1/reverse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tuần 3/pracArray1/sort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f0eec542a1618db1fb8d2855879b3c5d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../photo-1-15638769709731585771643.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../prime-factor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/so_chan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/so_chan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/tinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/tinh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuần 4/OOP/OOP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuần 4/OOP1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuần 4/OOP2" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hZheMoavSV95HqA6B8hOsRvJnV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java_6_inhertance/Shape" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Shape" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="985c0796-51a3-42b7-bd51-7fe7ca0375f4" name="Default Changelist" comment="" />
+      <created>1600224617504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600224617504</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="255" key="#com.intellij.ide.util.MemberChooser" timestamp="1600241437359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="255" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1600241437359" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1600249726322">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1600249726322" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1600249727477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600249727477" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1600249727477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600249727477" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1600249727477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600249727477" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1600249727477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600249727477" />
+    <state x="803" y="297" key="refactoring.ChangeSignatureDialog" timestamp="1600240172702">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="803" y="297" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600240172702" />
+  </component>
+</project>
